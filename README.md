@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarininNS
 - 👀 I’m interested in different things
-- 🌱 I’m currently learning VHDL and SV
+- 🌱 I’m currently learning `VHDL` and `SV`
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me n.marinin2016@yandex.ru
 
